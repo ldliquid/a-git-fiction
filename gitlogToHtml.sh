@@ -4,31 +4,50 @@ function exportGitGraph(){
 
   touch gitlog.txt
   chmod 755 gitlog.txt
-  git log --graph --abbrev-commit --date-order --full-history --simplify-merges --decorate=no --format=format:'<spanclass="date">%ai</span>%n''<spanclass="author">%an</span>%n''%B<spanclass="hash">%T</span>%n' --all  > gitlog.txt
-  #  --no-merges --dense
+  git log \
+    --graph \
+    --abbrev-commit \
+    --date-order \
+    --full-history \
+    --full-diff \
+    --simplify-merges \
+    --decorate=no \
+    --format=format:'<spanclass="subject">%s</span>%n''<spanclass="date">%ai</span>%n''<spanclass="author">%an</span>%n''<spanclass="hash">%T</span>%n' \
+    --all  > gitlog.txt
+
+#'<spanclass="body">%b</span>%n'
+    #  --no-merges --dense
 
 
-  sed -i "s/<.*@.*>//g" gitlog.txt
-  sed -i 's/\s/\&nbsp;/g' gitlog.txt
-  sed -i 's/spanclass/span class/g' gitlog.txt
-  sed -i ':a;N;$!ba;s/\n/<br>/g' gitlog.txt # http://stackoverflow.com/questions/1251999/sed-how-can-i-replace-a-newline-n
-  sed -i 's/\*/<span class="node">o<\/span>/g' gitlog.txt
-  # sed -i 's/|/<span class="line">|<\/span>/g' gitlog.txt # how to catch also "/" and "\"
+  # sed -i "s/<.*@.*>//g" gitlog.txt
+  sed -i 's/|/<spanclass="line">|<\/span>/g' gitlog.txt # how to catch also "/" and "\"
+  sed -i 's/\\/<spanclass="line">\\<\/span>/g' gitlog.txt # how to catch also "/" and "\"
+  sed -i 's/\/\s/<spanclass="line">\/<\/span> /g' gitlog.txt # how to catch also "/" and "\"
+  sed -i 's/\s/\&nbsp;/g' gitlog.txt #convert white space to &nbsp;
+  sed -i 's/spanclass/span class/g' gitlog.txt # convert 'spanclass' to 'span class'
+  sed -i ':a;N;$!ba;s/\n/<br>\n/g' gitlog.txt # convert newline to br ł http://stackoverflow.com/questions/1251999/sed-how-can-i-replace-a-newline-n
+  sed -i 's/\*/<span class="node">o<\/span>/g' gitlog.txt  # convert * to span node
 
 
   gitlog=`cat gitlog.txt`
-  html_body+="<section id='gitlog'><div class='inner'>$gitlog</div></section>"
+  html_body+='<section id="gitlog">
+  <div class="inner">
+  '"$gitlog"'
+  </div>
+  </section>';
   rm gitlog.txt
 }
 
 
 html_index_files=`cat ./templates/header.tpl.html`
 
-html_body="<body>"
+html_body='<body>
+';
 
 exportGitGraph
 
-html_body+="</body>"
+html_body+='</body>
+';
 
 html_index_files+="$html_body"
 html_index_files+=`cat ./templates/footer.tpl.html`
