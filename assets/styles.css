@@ -47,3 +47,25 @@ top: 0px;
 width: 400px;
 z-index: 200;
 }
+
+.photo .thumbnail{
+	max-width: 100px;
+}
+
+.hidden{
+	position:absolute;
+  display: none;
+	bottom:10px;
+	left:10px;
+}
+.photo{
+	position: relative;
+}
+
+.shown{
+  display: block;
+}
+
+.photo:hover .hidden{
+	display: block;
+}
