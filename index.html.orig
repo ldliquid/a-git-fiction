@@ -63,10 +63,17 @@
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">392dd90e38a2da1944afa561a61a17559137d59c</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Les&nbsp;voisins&nbsp;s'invitent&nbsp;à&nbsp;la&nbsp;fête.</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Les&nbsp;voisins&nbsp;s'invitent&nbsp;à&nbsp;la&nbsp;fête</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-12&nbsp;17:13:16&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Jules&nbsp;Vaulont</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">3448d95bc51eed7085558003fe301b230a2b5fc6</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Les&nbsp;voisins&nbsp;s'invitent&nbsp;à&nbsp;la&nbsp;fête.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-12&nbsp;17:13:16&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Jules&nbsp;Vaulont</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">3448d95bc51eed7085558003fe301b230a2b5fc6</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="subject h1">Merge&nbsp;branch&nbsp;'master'&nbsp;of&nbsp;https://github.com/ldliquid/a-git-fiction</span><br>
@@ -189,28 +196,51 @@
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash">2654f19a4b0a1448d9e9ec544b4dbb7d57dc947c</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">le&nbsp;Dieu&nbsp;des&nbsp;étoiles,&nbsp;des&nbsp;planètes&nbsp;et&nbsp;de&nbsp;l'espace-noir-infini-tout-puissant-qui-est-Tout-et-Unique&nbsp;envoie&nbsp;ses&nbsp;disciples&nbsp;illuminer&nbsp;la&nbsp;fête.</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">le&nbsp;dieu&nbsp;des&nbsp;étoiles,&nbsp;des&nbsp;planètes&nbsp;et&nbsp;de&nbsp;l'espace-noir-infini-tout-puissant-qui-est-tout-et-unique&nbsp;envoie&nbsp;ses&nbsp;disciples&nbsp;illuminer&nbsp;la&nbsp;fête</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-12&nbsp;12:54:52&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Meghann</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">9dc13385d3a28b838c9cdce12a29bc91f11e0c3f</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Les&nbsp;hommes&nbsp;se&nbsp;sont&nbsp;inventés&nbsp;des&nbsp;costumes&nbsp;incroyables&nbsp;pour&nbsp;rendre&nbsp;la&nbsp;fête&nbsp;encore&nbsp;plus&nbsp;inoubliable.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">les&nbsp;hommes&nbsp;se&nbsp;sont&nbsp;inventés&nbsp;des&nbsp;costumes&nbsp;incroyables&nbsp;pour&nbsp;rendre&nbsp;la&nbsp;fête&nbsp;encore&nbsp;inoubliables</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">le&nbsp;Dieu&nbsp;des&nbsp;étoiles,&nbsp;des&nbsp;planètes&nbsp;et&nbsp;de&nbsp;l'espace-noir-infini-tout-puissant-qui-est-Tout-et-Unique&nbsp;envoie&nbsp;ses&nbsp;disciples&nbsp;illuminer&nbsp;la&nbsp;fête.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-12&nbsp;12:54:52&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Meghann</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">9dc13385d3a28b838c9cdce12a29bc91f11e0c3f</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Les&nbsp;hommes&nbsp;se&nbsp;sont&nbsp;inventés&nbsp;des&nbsp;costumes&nbsp;incroyables&nbsp;pour&nbsp;rendre&nbsp;la&nbsp;fête&nbsp;encore&nbsp;plus&nbsp;inoubliable.</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-12&nbsp;12:41:12&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Meghann</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">42ee0f5cf67e16abd7e21a979c6733a097d1bb36</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1 h1">Les&nbsp;Dieux&nbsp;de&nbsp;la&nbsp;mer&nbsp;sont&nbsp;en&nbsp;route&nbsp;vers&nbsp;la&nbsp;célébration.</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1 h1">Les&nbsp;dieux&nbsp;de&nbsp;la&nbsp;mer&nbsp;sont&nbsp;en&nbsp;route&nbsp;vers&nbsp;la&nbsp;célébration.</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-12&nbsp;12:28:58&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">ldliquid</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">fb6517c7e1d07e78fac90867e977217e8a301ea4</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Fier&nbsp;de&nbsp;voir&nbsp;le&nbsp;bison&nbsp;ridiculisé,&nbsp;le&nbsp;Dieu&nbsp;щ(ಥДಥщ)&nbsp;s'en&nbsp;va&nbsp;vers&nbsp;la&nbsp;grande&nbsp;célébration&nbsp;...</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Fier&nbsp;de&nbsp;voir&nbsp;le&nbsp;Bizon&nbsp;ridiculisé,&nbsp;le&nbsp;Dieu&nbsp;щ(ಥДಥщ)&nbsp;s'en&nbsp;va&nbsp;vers&nbsp;la&nbsp;grande&nbsp;célébration&nbsp;...</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-12&nbsp;12:17:13&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">ldliquid</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">0085de9618a075bccc9c3cb4c15f2580300d4725</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Les&nbsp;Dieux&nbsp;de&nbsp;la&nbsp;mer&nbsp;sont&nbsp;en&nbsp;route&nbsp;vers&nbsp;la&nbsp;célébration.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-12&nbsp;12:28:58&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">ldliquid</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">fb6517c7e1d07e78fac90867e977217e8a301ea4</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Fier&nbsp;de&nbsp;voir&nbsp;le&nbsp;bison&nbsp;ridiculisé,&nbsp;le&nbsp;Dieu&nbsp;щ(ಥДಥщ)&nbsp;s'en&nbsp;va&nbsp;vers&nbsp;la&nbsp;grande&nbsp;célébration&nbsp;...</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-12&nbsp;12:17:13&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">ldliquid</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">0085de9618a075bccc9c3cb4c15f2580300d4725</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject">Il&nbsp;est&nbsp;mort,&nbsp;comme&nbsp;les&nbsp;autres</span><br>
@@ -225,28 +255,53 @@
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">0f11a4d0c2e8611870f9c3af5f1b8e3fc799359e</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Son&nbsp;premier&nbsp;vœu&nbsp;est&nbsp;exaucé.&nbsp;Le&nbsp;bison&nbsp;sera&nbsp;puni&nbsp;d'une&nbsp;malédiction.</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Son&nbsp;premier&nbsp;vœu&nbsp;est&nbsp;exaucé.&nbsp;Le&nbsp;bizon&nbsp;sera&nbsp;puni&nbsp;d'une&nbsp;malédiction.</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span><span class="line">/</span>&nbsp;<span class="line">/</span>&nbsp;<span class="line">/</span>&nbsp;&nbsp;<span class="date h1">2015-02-12&nbsp;11:45:37&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author h1">ldliquid</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash h1">e729c134c3a91948e1ee352eb6a8429f257fec80</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Troisième&nbsp;et&nbsp;dernier&nbsp;vœu&nbsp;:&nbsp;construire&nbsp;une&nbsp;tour&nbsp;immense,&nbsp;au&nbsp;sommet&nbsp;de&nbsp;laquelle&nbsp;il&nbsp;pourra&nbsp;siéger&nbsp;et&nbsp;monter&nbsp;la&nbsp;garde&nbsp;afin&nbsp;de&nbsp;protéger&nbsp;son&nbsp;peuple.</span><br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Troisième&nbsp;et&nbsp;dernier&nbsp;vœu&nbsp;:&nbsp;construire&nbsp;une&nbsp;tour&nbsp;immense,&nbsp;au&nbsp;sommet&nbsp;duquel&nbsp;il&nbsp;pourra&nbsp;siéger&nbsp;et&nbsp;monter&nbsp;la&nbsp;garde&nbsp;afin&nbsp;de&nbsp;protéger&nbsp;son&nbsp;peuple</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-11&nbsp;17:25:07&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Meghann</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">d9167c7c4c3afc73bfe9c52c3870b9adae51667b</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Deuxième&nbsp;vœu&nbsp;:&nbsp;organiser&nbsp;une&nbsp;grande&nbsp;célébration&nbsp;de&nbsp;sa&nbsp;transformation&nbsp;en&nbsp;Dieu.</span><br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Deuxième&nbsp;voeu&nbsp;:&nbsp;organiser&nbsp;une&nbsp;grande&nbsp;célébration&nbsp;de&nbsp;sa&nbsp;transformation&nbsp;en&nbsp;Dieu</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-11&nbsp;16:30:28&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Meghann</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">5e288ac10a39486cd5b82f2f2b378f3f35065f2f</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Premier&nbsp;vœu &nbsp;:&nbsp;se&nbsp;venger&nbsp;de&nbsp;son&nbsp;meutrier.</span><br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Premier&nbsp;voeu.&nbsp;Se&nbsp;venger&nbsp;de&nbsp;son&nbsp;meutrier</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-11&nbsp;15:15:01&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Jules&nbsp;Vaulont</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">afa38788e20b70727bfbcb5590b3cc35acf75a8e</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Son&nbsp;premier&nbsp;vœu&nbsp;est&nbsp;exaucé.&nbsp;Le&nbsp;bison&nbsp;sera&nbsp;puni&nbsp;d'une&nbsp;malédiction.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span><span class="line">/</span>&nbsp;<span class="line">/</span>&nbsp;<span class="line">/</span>&nbsp;&nbsp;<span class="date">2015-02-12&nbsp;11:45:37&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author">ldliquid</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash">e729c134c3a91948e1ee352eb6a8429f257fec80</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Troisième&nbsp;et&nbsp;dernier&nbsp;vœu&nbsp;:&nbsp;construire&nbsp;une&nbsp;tour&nbsp;immense,&nbsp;au&nbsp;sommet&nbsp;de&nbsp;laquelle&nbsp;il&nbsp;pourra&nbsp;siéger&nbsp;et&nbsp;monter&nbsp;la&nbsp;garde&nbsp;afin&nbsp;de&nbsp;protéger&nbsp;son&nbsp;peuple.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-11&nbsp;17:25:07&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Meghann</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">d9167c7c4c3afc73bfe9c52c3870b9adae51667b</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Deuxième&nbsp;vœu&nbsp;:&nbsp;organiser&nbsp;une&nbsp;grande&nbsp;célébration&nbsp;de&nbsp;sa&nbsp;transformation&nbsp;en&nbsp;Dieu.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-11&nbsp;16:30:28&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Meghann</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">5e288ac10a39486cd5b82f2f2b378f3f35065f2f</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Premier&nbsp;vœu&nbsp;:&nbsp;se&nbsp;venger&nbsp;de&nbsp;son&nbsp;meutrier.</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-11&nbsp;15:15:01&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Jules&nbsp;Vaulont</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">afa38788e20b70727bfbcb5590b3cc35acf75a8e</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Pour&nbsp;honorer&nbsp;le&nbsp;nouveau&nbsp;Dieu,&nbsp;trois&nbsp;vœux&nbsp;lui&nbsp;sont&nbsp;accordés.</span><br>
@@ -255,10 +310,17 @@
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash h1">2d61608573668fa2d7964ab1e0804e7809fc0e0e</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Héros&nbsp;de&nbsp;sa&nbsp;patrie&nbsp;;&nbsp;après&nbsp;sa&nbsp;mort,&nbsp;il&nbsp;se&nbsp;réincarne&nbsp;en&nbsp;Dieu&nbsp;de&nbsp;la&nbsp;chasse.&nbsp;Son&nbsp;nom&nbsp;est&nbsp;:&nbsp;щ(ಥДಥщ).</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject h1">Héros&nbsp;de&nbsp;sa&nbsp;patrie.&nbsp;Après&nbsp;sa&nbsp;mort,&nbsp;il&nbsp;se&nbsp;réincarne&nbsp;en&nbsp;Dieu&nbsp;de&nbsp;la&nbsp;chasse.&nbsp;Son&nbsp;nom&nbsp;est&nbsp;:&nbsp;щ(ಥДಥщ).</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span><span class="line">/</span>&nbsp;&nbsp;<span class="date h1">2015-02-11&nbsp;11:22:37&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author h1">ldliquid</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash h1">3c913c226c49df1451ef41ebb7d70392a5b535f6</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="line">|</span>&nbsp;<span class="subject">Héros&nbsp;de&nbsp;sa&nbsp;patrie&nbsp;;&nbsp;après&nbsp;sa&nbsp;mort,&nbsp;il&nbsp;se&nbsp;réincarne&nbsp;en&nbsp;Dieu&nbsp;de&nbsp;la&nbsp;chasse.&nbsp;Son&nbsp;nom&nbsp;est&nbsp;:&nbsp;щ(ಥДಥщ).</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span><span class="line">/</span>&nbsp;&nbsp;<span class="date">2015-02-11&nbsp;11:22:37&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author">ldliquid</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash">3c913c226c49df1451ef41ebb7d70392a5b535f6</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<br>
 <span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject h1">et&nbsp;son&nbsp;arme</span><br>
@@ -273,16 +335,29 @@
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">e64faf05a5a288eaec85c130eaf82042ca811001</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject h1">L'Homme&nbsp;est&nbsp;mort&nbsp;!&nbsp;Vive&nbsp;l'Homme&nbsp;!</span><br>
+<<<<<<< HEAD
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject h1">L'Homme&nbsp;est&nbsp;mort.&nbsp;Vive&nbsp;l'Homme.</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date h1">2015-02-10&nbsp;12:17:09&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author h1">Meghann</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash h1">a14998457625f8505070ca5016aab092fff55a94</span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<br>
-<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject dev">Définition&nbsp;du&nbsp;projet&nbsp;dans&nbsp;le&nbsp;readme</span><br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject dev">Definition&nbsp;du&nbsp;projet&nbsp;dans&nbsp;le&nbsp;readme</span><br>
 <span class="line">|</span><span class="line">/</span>&nbsp;&nbsp;<span class="date dev">2015-02-10&nbsp;11:22:31&nbsp;+0100</span><br>
 <span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author dev">ldliquid</span><br>
 <span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash dev">d8b7b9ae06793fb6528cdb8a9dab8706124c992d</span><br>
+=======
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject">L'Homme&nbsp;est&nbsp;mort&nbsp;!&nbsp;Vive&nbsp;l'Homme &nbsp;!</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="date">2015-02-10&nbsp;12:17:09&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="author">Meghann</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="hash">a14998457625f8505070ca5016aab092fff55a94</span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;<span class="body"></span><br>
+<span class="line">|</span>&nbsp;<span class="line">|</span>&nbsp;&nbsp;&nbsp;<br>
+<span class="line">|</span>&nbsp;<span class="node">o</span>&nbsp;<span class="subject">Définition&nbsp;du&nbsp;projet&nbsp;dans&nbsp;le&nbsp;readme</span><br>
+<span class="line">|</span><span class="line">/</span>&nbsp;&nbsp;<span class="date">2015-02-10&nbsp;11:22:31&nbsp;+0100</span><br>
+<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="author">ldliquid</span><br>
+<span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="hash">d8b7b9ae06793fb6528cdb8a9dab8706124c992d</span><br>
+>>>>>>> 14dbbd3a3d14f0e4f2df774b594913376c94b7a7
 <span class="line">|</span>&nbsp;&nbsp;&nbsp;<span class="body"></span><br>
 <span class="line">|</span>&nbsp;&nbsp;<br>
 <span class="node">o</span>&nbsp;<span class="subject dev">Initial&nbsp;commit</span><br>
