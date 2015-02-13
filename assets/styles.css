@@ -15,3 +15,11 @@ body{
 .date, .author, .hash{
   font-size: 0.756em;
 }
+
+.dev{
+  color:#d1cece;
+}
+
+.h1{
+  border-bottom:1px solid black;
+}
