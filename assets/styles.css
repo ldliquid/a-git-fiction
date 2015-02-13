@@ -31,3 +31,12 @@ body{
 .h3{
   background-color: #f8ff97;
 }
+.hidden{
+  display: none;
+}
+
+.shown{
+  display: block;
+}
+
+
