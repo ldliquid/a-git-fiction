@@ -36,10 +36,13 @@ body{
 
 img {
   height: 75px;
-  weight: auto;
   float: left;
   margin-left: 20px;
 }
+.th{
+  height: 75px;;
+}
+
 
 .imgContent{
 position: absolute;
@@ -48,24 +51,23 @@ width: 400px;
 z-index: 200;
 }
 
-.photo .thumbnail{
+.imgContent .th{
 	max-width: 100px;
 }
 
-.hidden{
+.h{
 	position:absolute;
   display: none;
 	bottom:10px;
 	left:10px;
-}
-.photo{
-	position: relative;
 }
 
 .shown{
   display: block;
 }
 
-.photo:hover .hidden{
+.imgContent:hover .h{
 	display: block;
+	width:400px;
+	height:auto;
 }
