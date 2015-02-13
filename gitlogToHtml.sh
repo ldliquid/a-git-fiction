@@ -6,28 +6,31 @@ function exportGitGraph(){
   chmod 755 gitlog.txt
   git log \
     --graph \
-    --abbrev-commit \
     --date-order \
     --full-history \
-    --full-diff \
     --simplify-merges \
     --decorate=no \
-    --format=format:'<spanclass="subject">%s</span>%n''<spanclass="date">%ai</span>%n''<spanclass="author">%an</span>%n''<spanclass="hash">%T</span>%n' \
+    --format=format:'<spanclass="subject">%s</span>%n''<spanclass="date">%ai</span>%n''<spanclass="author">%an</span>%n''<spanclass="hash">%T</span>%n''<spanclass="body">%b</span>%n' \
     --all  > gitlog.txt
 
-#'<spanclass="body">%b</span>%n'
+    #'<spanclass="body">%b</span>%n'
     #  --no-merges --dense
+    #--abbrev-commit \
+    # -p -999 \
+    # --full-diff \
+    # --branches=dev\
 
-
-  # sed -i "s/<.*@.*>//g" gitlog.txt
+  sed -i "s/<.*@.*>//g" gitlog.txt
   sed -i 's/|/<spanclass="line">|<\/span>/g' gitlog.txt # how to catch also "/" and "\"
   sed -i 's/\\/<spanclass="line">\\<\/span>/g' gitlog.txt # how to catch also "/" and "\"
   sed -i 's/\/\s/<spanclass="line">\/<\/span> /g' gitlog.txt # how to catch also "/" and "\"
   sed -i 's/\s/\&nbsp;/g' gitlog.txt #convert white space to &nbsp;
   sed -i 's/spanclass/span class/g' gitlog.txt # convert 'spanclass' to 'span class'
+  sed -i 's/divclass/div class/g' gitlog.txt # convert 'spanclass' to 'span class'
   sed -i ':a;N;$!ba;s/\n/<br>\n/g' gitlog.txt # convert newline to br ł http://stackoverflow.com/questions/1251999/sed-how-can-i-replace-a-newline-n
   sed -i 's/\*/<span class="node">o<\/span>/g' gitlog.txt  # convert * to span node
 
+  # diff = grep '<span class=""></span>'
 
   gitlog=`cat gitlog.txt`
   html_body+='<section id="gitlog">
