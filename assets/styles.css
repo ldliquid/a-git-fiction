@@ -31,12 +31,26 @@ body{
 .h3{
   background-color: #f8ff97;
 }
+
+.photo .thumbnail{
+	max-width: 100px;
+}
+
 .hidden{
+	position:absolute;
   display: none;
+	bottom:10px;
+	left:10px;
+}
+.photo{
+	position: relative;
 }
 
 .shown{
   display: block;
 }
 
+.photo:hover .hidden{
+	display: block;
+}
 
