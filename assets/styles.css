@@ -23,3 +23,11 @@ body{
 .h1{
   border-bottom:1px solid black;
 }
+
+.h2{
+  letter-spacing: 6px;
+}
+
+.h3{
+  background-color: #f8ff97;
+}
