@@ -10,10 +10,12 @@ body{
 .subject{
   font-size:1.2em;
   font-weight: bold;
+  position: relative;
 }
 
 .date, .author, .hash{
   font-size: 0.756em;
+  position: relative;
 }
 
 .dev{
@@ -30,4 +32,18 @@ body{
 
 .h3{
   background-color: #f8ff97;
+}
+
+img {
+  height: 75px;
+  weight: auto;
+  float: left;
+  margin-left: 20px;
+}
+
+.imgContent{
+position: absolute;
+top: 0px;
+width: 400px;
+z-index: 200;
 }
