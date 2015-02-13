@@ -58,8 +58,8 @@ z-index: 200;
 .h{
 	position:absolute;
   display: none;
-	bottom:10px;
-	left:10px;
+	bottom:0px;
+	left:0px;
 }
 
 .shown{
